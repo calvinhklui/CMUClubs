@@ -5,9 +5,9 @@ This web application was developed for student organizations at Carnegie Mellon 
 
 Brought to you by the [CMU Business Technology Group](https://cmubtg.com).
 
-Directory Lookup: Dylan Chou, Juan Diego Meza
-UX Design: Matthew Guo
-CSV Export: Jenny Zhu
+<b>Directory Lookup:</b> Dylan Chou, Juan Diego Meza  
+<b>UX Design:</b> Matthew Guo  
+<b>CSV Export:</b> Jenny Zhu  
 
 ## Development
 Start the API server:
