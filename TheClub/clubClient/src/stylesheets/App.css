@@ -1,0 +1,96 @@
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.card {
+  background-color: #2f3a4a !important;
+}
+
+.table {
+  color: #fff !important;
+  text-align: left;
+}
+
+.table th {
+  color: #7c8a9d !important;
+  font-weight: 500 !important;
+  border: 0px !important;
+}
+
+.table td {
+  border: 0px !important;
+}
+
+.metrics-card {
+  color: #7c8a9d !important;
+  background-color: #2f3a4a !important;
+  text-align: left;
+}
+
+.metrics-card-metric{
+  display: inline;
+  color: #fff !important;
+}
+
+i{
+  vertical-align: middle;
+} 
+
+hr {
+  border: 0 !important;
+  border-top: 2px solid #263238 !important;
+}
+
+td {
+  vertical-align: middle !important;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #546e7a !important;
+    border-color: #546e7a !important;
+}
+
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger:visited,
+.btn-danger:focus {
+    background-color: #d94255 !important;
+    border-color: #d94255 !important;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
