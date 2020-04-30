@@ -19,7 +19,7 @@ requests = "==2.22.0"
 soupsieve = "==1.9.3"
 sqlparse = "==0.3.0"
 urllib3 = "==1.25.5"
-Django = "==2.2.5"
+Django = "==2.2.10"
 Pillow = "==6.2.1"
 PyJWT = "==1.7.1"
 
