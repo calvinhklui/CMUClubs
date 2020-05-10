@@ -10,7 +10,7 @@ Brought to you by the [CMU Business Technology Group](https://cmubtg.com).
 <b>CSV Export:</b> Jenny Zhu  
 
 ## Development
-Start the API server:
+Start the <b>Django REST</b> API server:
 ```
 pipenv install
 pipenv run python manage.py migrate
@@ -18,7 +18,7 @@ pipenv run python manage.py createsuperuser
 pipenv run python manage.py runserver
 ```
 
-Start the client server:
+Start the <b>React.js</b> client server:
 ```
 cd TheClub/clubClient
 npm install
