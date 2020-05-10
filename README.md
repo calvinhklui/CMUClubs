@@ -26,5 +26,5 @@ npm start
 ```
 
 ## Usage
-1) Create a club via the Django admin portal: http://localhost:8000/admin
+1) Create a club via the admin portal: http://localhost:8000/admin
 2) Login to the application: http://localhost:3000
