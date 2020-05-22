@@ -7,7 +7,7 @@ Brought to you by the [CMU Business Technology Group](https://cmubtg.com).
 
 <b>Directory Lookup:</b> Dylan Chou, Juan Diego Meza  
 <b>UX Design:</b> Matthew Guo  
-<b>CSV Export:</b> Jenny Zhu  
+<b>CSV Export:</b> Jenny Zhu
 
 ## Development
 Start the <b>Django REST</b> API server:
@@ -28,3 +28,6 @@ npm start
 ## Usage
 1) Create a club via the admin portal: http://localhost:8000/admin
 2) Login to the application: http://localhost:3000
+
+<br />
+<img src="Images/dashboard.png">
